@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee is the best one
+title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
