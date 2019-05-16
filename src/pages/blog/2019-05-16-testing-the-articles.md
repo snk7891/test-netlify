@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Testing the articles
+title: Testing the articles 4567890
 date: 2019-05-16T13:59:10.621Z
 description: Incipit
-featuredpost: true
+featuredpost: false
 featuredimage: /img/vintage-style-1920x1080-wallpaper-2678.jpg
 tags:
   - stupid
